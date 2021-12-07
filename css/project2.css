@@ -1,0 +1,145 @@
+header
+{
+    background-color:palevioletred;
+    height: 300px;
+}
+.photo
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    margin: 20px;
+    float: left;
+    border-style: solid;
+}
+.name
+{
+    float: left;
+    text-align: center;
+    margin-left: 50%;
+}
+.line
+{
+    border-bottom-style: solid;
+    padding: 60px;
+}
+.icons
+{
+    margin-left: 40px;
+}
+small
+{
+    padding: 50px;
+}
+.left
+{
+
+
+    background-color: pink;
+    float: left;
+    height: 100%;
+    width: 20%;
+    border-radius: 90px;
+    margin: 5px;
+    padding: 10px;
+  
+   
+}
+
+.right
+{
+    background-color: rgb(228, 102, 134);
+    float: left;
+    height: 100%;
+    width: 75%;
+    border-radius: 90px;
+    margin: 5px;
+    padding: 10px;
+}
+.title1
+{
+    margin-left: 10px;
+    
+}
+.Title
+{
+    background-color: seashell;
+    font-style: italic;
+}
+.pg
+{
+    font-size: large;
+   
+}
+.nav
+{
+background-color:beige;
+padding: 10px;
+margin: 20px;
+clear: both;
+}
+.nav a{
+    color:black;
+    text-decoration: none;
+    padding: 10px;
+    cursor: pointer;
+   
+}
+.nav a:hover
+{
+    background-color: lightcoral;
+}
+.icons1
+{
+    float: left;
+}
+.course1
+{
+    background-color: rgb(165, 28, 108);
+    float: left;
+    height: 100%;
+    width: 95%;
+    border-radius: 60px;
+    margin: 5px;
+    padding: 10px;
+}
+.project
+{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img
+{
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: black 5px 5px 5px;
+    
+}
+.img1
+{
+    float: left;
+}
+.video
+{
+    height: 400px;
+    width: 600px;
+    margin: 10px;
+    
+}
+.divideo
+{
+    text-align: center; 
+    background-color:whitesmoke;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 20px;
+
+}
+.active{
+    background-color: rgb(252, 156, 208);
+    padding: 20px;
+}
